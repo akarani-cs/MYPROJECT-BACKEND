@@ -48,3 +48,6 @@ Paginated results (10 per page)
 Endpoints for Reviews by Movie
 
 /api/reviews/by-movie/?title=Inception
+
+
+i used an LLM to learn how to prepare the api for deployment.
