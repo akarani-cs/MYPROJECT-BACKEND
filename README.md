@@ -6,6 +6,17 @@ i'll use django and django rest framework.
 
 This API is a Django REST Framework (DRF) project that allows users to create, read, update, and delete (CRUD) reviews for movies. It also includes user management with authentication and permissions. The API demonstrates backend development skills in database design, authentication, authorization, search, filtering, and deployment.
 
+Created a new Django project (movie_review_api).
+
+Installed Django REST Framework (DRF) to build RESTful APIs.
+
+Installed djangorestframework-simplejwt for JWT authentication.
+
+Added required apps to INSTALLED_APPS: rest_framework, rest_framework_simplejwt, and a custom app (reviews).
+
+
+
+
 Authentication
 
 Register, login, JWT authentication
